@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="80dp"
+    android:background="@drawable/back"
+    android:layout_height="90dp">
+
+    <TextView
+        android:id="@+id/promo"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:paddingBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:textSize="22sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:typeface="serif"
+        android:text=""
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@+id/promo"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/white"
+        android:onClick="promo"
+        android:text="Get Info"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15dp"
+        android:typeface="serif"/>
+
+
+</RelativeLayout>
