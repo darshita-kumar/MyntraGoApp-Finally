@@ -1,6 +1,6 @@
-Disclaimer: We don't own or have any legal claim over the logos and names used in the app we've built. Our prototype was originally a solution to the Myntra-Jabong hackathon conducted by Hackerearth in 2019. Since we did not win the hackathon, we have all legal rights over the code written by us. According to us, Myntra-Jabong has no legal rights over our idea and code and hence we would like to submit our idea and code for this competition. The idea can be used for any online fashion retail service similar to Myntra. We do not wish to violate any legal rights of any company.
+Disclaimer: We don't own or have any legal claim over the logos and names used in the app we've built. Our prototype was originally a solution to the Myntra-Jabong hackathon conducted by Hackerearth in 2019. Since we did not win the hackathon, we believe that we have all legal rights over the code written by us. According to us, Myntra-Jabong has no legal rights over our idea and code and hence we would like to submit our idea and code for this competition. The idea can be used for any online fashion retail service similar to Myntra. We do not wish to violate any legal rights of any company.
 
-Myntra Go is aimed to be an app extension of existing Myntra App. The prototype of the same is provided here. Instructions to run the app:
+Myntra Go is aimed to be an app extension of existing Myntra App (or any other retail app). The prototype of the same is provided here. Instructions to run the app:
 
 1. Download the project from GitHub onto a desktop with Android Studio installed in it. 
 2. Unzip the project 
@@ -16,4 +16,4 @@ Myntra Go is aimed to be an app extension of existing Myntra App. The prototype 
 
 12. In step 9, if the product image is not tapped within 12 seconds, it disappears and the promo code can't be viewed for that product. (Thus making the user take a quick decision about buying the product).
 
-*The actual version of the app will include in app images from Myntra app for display and also a Geolocation feature which will enable a product images to appear only at certain locations for certain intervals of time.
+*The actual version of the app will include in app images from the retail app for display and also a Geolocation feature which will enable a product images to appear only at certain locations for certain intervals of time.
