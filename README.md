@@ -1,3 +1,5 @@
+Disclaimer: We don't own or have any legal claim over the logos and names used in the app we've built. Our prototype was originally a solution to the Myntra-Jabong hackathon conducted by Hackerearth in 2019. Since we did not win the hackathon, we have all legal rights over the code written by us. According to us, Myntra-Jabong has no legal rights over our idea and code and hence we would like to submit our idea and code for this competition. The idea can be used for any online fashion retail service similar to Myntra. We do not wish to violate any legal rights of any company.
+
 Myntra Go is aimed to be an app extension of existing Myntra App. The prototype of the same is provided here. Instructions to run the app:
 
 1. Download the project from GitHub onto a desktop with Android Studio installed in it. 
